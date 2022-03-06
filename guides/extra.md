@@ -2,9 +2,9 @@
 
 ## Телеграм каналы
 
-- https://t.me/TG_security
-- https://t.me/proxyme
-- https://t.me/itsorm
+- [https://t.me/TG_security](https://t.me/TG_security) 
+- [https://t.me/proxyme](https://t.me/proxyme) 
+- [https://t.me/itsorm](https://t.me/itsorm) 
 
 В этих каналах вы сможете найти актуальную информацию для обхода блокировок, когда они начнут действовать, некоторые из них предоставят Вам готовые прокси.
 
