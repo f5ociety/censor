@@ -1,1 +1,13 @@
 theme: jekyll-theme-architect
+
+
+# Progressive Web Apps
+sitename: Блокировки в России
+baseurl: /
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+exclude:
+- guides
+- README.md
