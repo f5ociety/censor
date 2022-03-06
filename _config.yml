@@ -3,7 +3,7 @@ theme: jekyll-theme-architect
 
 # Progressive Web Apps
 sitename: Блокировки в России
-baseurl: /
+baseurl: /censor
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
