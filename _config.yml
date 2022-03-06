@@ -5,7 +5,3 @@ theme: jekyll-theme-architect
 sitename: Блокировки в России
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
-exclude:
-- guides
-- README.md
