@@ -46,15 +46,15 @@ Telegram
 
 [https://t.me/proxytelebot](https://t.me/proxytelebot)
 
-*Signal*
+**Signal**
 
-[iOS](https://apps.apple.com/ru/app/signal-%D0%BF%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%81%D1%81%D0%B5%D0%BD%D0%B4%D0%B6%D0%B5%D1%80/id874139669) [|](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=ru&gl=US) [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=ru&gl=US) [|](https://signal.org/ru/download/) [десктоп](https://signal.org/ru/download/)
+[iOS](https://apps.apple.com/ru/app/signal-%D0%BF%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%81%D1%81%D0%B5%D0%BD%D0%B4%D0%B6%D0%B5%D1%80/id874139669) | [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=ru&gl=US) | [десктоп](https://signal.org/ru/download/)
 
 Альтернативой в случае блокировки Telegram может стать Signal. Но из-за его известности с этим мессенджером больше шансов, что его также заблокируют, как и Телеграм[◻](https://doxajournal.ru/shutdown_guide#2). Для регистрации в Signal потребуется подтверждение по SMS.
 
-*Matrix / Element* 
+**Matrix / Element**
 
-[iOS](https://apps.apple.com/ru/app/element-messenger/id1083446067) [|](https://play.google.com/store/apps/details?id=im.vector.app&hl=ru&gl=US) [Android](https://play.google.com/store/apps/details?id=im.vector.app&hl=ru&gl=US) [|](https://element.io/get-started) [десктоп](https://element.io/get-started)
+[iOS](https://apps.apple.com/ru/app/element-messenger/id1083446067) | [Android](https://play.google.com/store/apps/details?id=im.vector.app&hl=ru&gl=US) | [десктоп](https://element.io/get-started)
 
 На данный момент самым развитым децентрализованным инструментом для зашифрованного общения является Matrix. Самый простой способ использовать Matrix [–](https://element.io/get-started) [установить мессенджер Element](https://element.io/get-started) или запустить его в браузере. Для регистрации вам не понадобится сим-карта, а чтобы найти там друг друга можно по имени аккаунта. Element поддерживает групповые чаты с шифрованием по умолчанию, а также отправку файлов.
 
