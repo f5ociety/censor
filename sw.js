@@ -1,72 +1,38 @@
----
-layout: null
----
-
-const cacheName = 'sw-{{ site.time | date: '%s'}}';
-const dataCacheName = 'sw-{{ site.time | date: '%s' }}';
-const RUNTIME = 'runtime';
-
-var getPageURL = location;
-
-var filesToCache = [
- '/manifest.json',
- '/static-assets/js/home.js',
- 'static-assets/js/posts.js',
- '/static-assets/css/new-base.css',
- '/',
- '404.html'
+const staticCacheName = 'site-static-v1';
+const assets = [
+  '/',
+  '/index.html',
+  '/assets/js/ui.js',
+  '/assets/css/main.css',
+  '/assets/images/background-home.jpg',
+  'https://fonts.googleapis.com/css?family=Lato:300,400,700',
 ];
-
-self.addEventListener('install', function(e) {
-    e.waitUntil(
-        caches.open(cacheName).then(function(cache) {
-            //console.log('adding to cache');
-            return cache.addAll(filesToCache);
-        }).then(function(){
-         return self.skipWaiting();
-         //console.log('here i am');
-        })
-    );
+// install event
+self.addEventListener('install', evt => {
+  evt.waitUntil(
+    caches.open(staticCacheName).then((cache) => {
+      console.log('caching shell assets');
+      cache.addAll(assets);
+    })
+  );
 });
-
-self.addEventListener('activate', function(e) {
-    //console.log('[ServiceWorker] Activate');
-    e.waitUntil(
-        caches.keys().then(function(keyList) {
-            return Promise.all(keyList.map(function(key) {
-                if (key !== cacheName || key !== dataCacheName) {
-                    console.log('[ServiceWorker] Removing old cache', key);
-                    return caches.delete(key);
-                }
-            }));
-        }).then(function(){
-            caches.open(cacheName).then(function(cache) {
-                //console.log('adding to cache');
-                return cache.addAll(filesToCache);
-            })
-        })
-    );
-    return self.clients.claim();
+// activate event
+self.addEventListener('activate', evt => {
+  evt.waitUntil(
+    caches.keys().then(keys => {
+      return Promise.all(keys
+        .filter(key => key !== staticCacheName)
+        .map(key => caches.delete(key))
+      );
+    })
+  );
 });
-
-self.addEventListener('fetch', event => {
-  // Skip cross-origin requests, like those for Google Analytics.
-  if (event.request.url.startsWith(self.location.origin) && !event.request.url.startsWith(self.location.origin + '/.netlify/')) {
-    event.respondWith(
-      caches.match(event.request).then(cachedResponse => {
-        if (cachedResponse) {
-          return cachedResponse;
-        }
-
-        return caches.open(RUNTIME).then(cache => {
-          return fetch(event.request).then(response => {
-            // Put a copy of the response in the runtime cache.
-            return cache.put(event.request, response.clone()).then(() => {
-              return response;
-            });
-          });
-        });
-      })
-    );
-  }
+// When we change the name we could have multiple cache, to avoid that we need to delet the old cache, so with this function we check the key that is our cache naming, if it is different from the actual naming we delete it, in this way we will always have only the last updated cache.
+// fetch event
+self.addEventListener('fetch', evt => {
+  evt.respondWith(
+    caches.match(evt.request).then(cacheRes => {
+      return cacheRes || fetch(evt.request);
+    })
+  );
 });

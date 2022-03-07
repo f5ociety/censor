@@ -1,13 +1,51 @@
 {
-    "name": "Сайт с инструкциями по блокировкам в России",
-    "short_name": "Блокировки в России",
-    "start_url": "/censor/",
+    "name": "Name Website",
+    "short_name": "NameWebsite",
+    "start_url": "/index.html",
     "display": "standalone",
-    "scope": "/censor/",
-    "background_color": "#121212",
-    "theme_color": "#121212",
-    "splash_pages": null,
-    "url": "https://f5ociety.github.io/censor/",
-    "lang": "",
-    "description": "Сборник всех ресурсов для разных ситуаций. Инструкции по выживанию в интернете - от прокси до VPN, от бана по железу до геополитической блокировки."
-  }
+    "background_color": "#F4F4F4",
+    "theme_color": "#F4F4F4",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/assets/images/logo-72x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "/assets/images/logo-96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/assets/images/logo-128x128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/assets/images/logo-144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/assets/images/logo-152x152.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "/assets/images/logo-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/assets/images/logo-384x384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "/assets/images/logo-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
