@@ -1,7 +1,7 @@
 {
     "name": "Name Website",
     "short_name": "NameWebsite",
-    "start_url": "/index.html",
+    "start_url": "/censor/index.html",
     "display": "standalone",
     "background_color": "#F4F4F4",
     "theme_color": "#F4F4F4",
