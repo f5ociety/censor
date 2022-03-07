@@ -3,8 +3,8 @@ const assets = [
   '/',
   '/index.html',
   '/assets/js/ui.js',
-  '/assets/css/main.css',
-  '/assets/images/background-home.jpg',
+  'https://f5ociety.github.io/censor/assets/css/style.css',
+  'https://f5ociety.github.io/censor/assets/images/earth.jpg',
   'https://fonts.googleapis.com/css?family=Lato:300,400,700',
 ];
 // install event
