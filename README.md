@@ -1,10 +1,4 @@
----
-layout: page
-title: Hello World!
-tagline: Supporting tagline
----
-{% include JB/setup %}
-
+{% include default.html %} 
 # Блокировки в России
 
 <aside>
