@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: page
+title: Hello World!
+tagline: Supporting tagline
 ---
+{% include JB/setup %}
 
 # Блокировки в России
 
