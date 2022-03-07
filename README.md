@@ -1,4 +1,4 @@
-{% include default.html %} 
+
 # Блокировки в России
 
 <aside>
