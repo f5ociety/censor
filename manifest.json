@@ -1,10 +1,10 @@
 {
-    "name": "Name Website",
-    "short_name": "NameWebsite",
+    "name": "Блокировки в России",
+    "short_name": "Блокировки в России",
     "start_url": "/censor/index.html",
     "display": "standalone",
-    "background_color": "#F4F4F4",
-    "theme_color": "#F4F4F4",
+    "background_color": "#000103",
+    "theme_color": "#000103",
     "orientation": "portrait-primary",
     "icons": [
         {
