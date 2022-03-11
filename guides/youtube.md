@@ -8,10 +8,11 @@
 - [Psiphon](https://psiphon.ca/ru/download.html) - бесплатный, но медленный VPN
 
 ## Зеркала Youtube
+1) [TonVid](tonvid.com) - архив старых и популярных видео, так же можно смотреть через [SMTube](https://www.smtube.org/)
+2) [web.archive.org](web.archive.org) - если всё очень плохо и у Вас есть ссылка на видео. Не все видео в архиве. Медленно грузит
+3) [Invidious — альтернативный YouTube-фронтенд](https://docs.invidious.io/Invidious-Instances/#list-of-public-invidious-instances-sorted-from-oldest-to-newest) - на этой странице есть список всех зеркал из разных стран
 
-[Invidious — альтернативный YouTube-фронтенд](https://docs.invidious.io/Invidious-Instances/#list-of-public-invidious-instances-sorted-from-oldest-to-newest) - на этой странице есть список всех зеркал из разных стран
-
-### Дублирую список 
+### Дублирую список Invidious
 
 - [Финляндия](invidious.snopyta.org)
 - [Нидерланды](yewtu.be)
