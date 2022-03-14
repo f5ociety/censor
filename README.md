@@ -22,5 +22,5 @@
 
 [**Блокировка YouTube**](guides/youtube.md)
 
-[**Блокировка Instagram**](guides/instagram.md)
+[**Блокировка Instagram**](guides/instragram.md)
 
