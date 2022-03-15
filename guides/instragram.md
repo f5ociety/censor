@@ -22,8 +22,8 @@
 
 
 ## Бэкапы аккаунта
-1) [Instagram manager](https://vk.com/instagram_manager) - от ВКонтакте
-2) [Через Яндекс](https://yandex.ru/business/instagram/) - будет создана web-страница на аккаунте Яндекс.Бизнес. [Пример, как это будет выглядеть](https://natural-green-studio.clients.site/)
+1) [Instagram manager](https://vk.com/instagram_manager) - от ВКонтакте <br>
+2) [Через Яндекс](https://yandex.ru/business/instagram/) - будет создана web-страница на аккаунте Яндекс.Бизнес. [Пример, как это будет выглядеть](https://natural-green-studio.clients.site/)<br>
 
 [Источник, откуда я узнал про бэкапы](https://rozetked.me/articles/22421-kak-sohranit-vse-dannye-iz-instagram)
 
