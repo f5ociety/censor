@@ -24,3 +24,5 @@
 
 [**Блокировка Instagram**](guides/instragram.md)
 
+[**Amnezia VPN - наше спасение!**](guides/amnezia.md)
+
