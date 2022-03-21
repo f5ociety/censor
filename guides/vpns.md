@@ -179,7 +179,7 @@
 
 4) Нет расширения для браузера
 
-[**Ссылка**](https://help.fckvpn.com/ru/)
+[**Ссылка**](https://www.fckvpn.com/)
 
 ## Xeovo 
 
