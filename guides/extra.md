@@ -1,5 +1,3 @@
-
-
 # Дополнительные инструменты для обхода блокировок и полезные ресурсы
 
 ## Телеграм каналы
@@ -12,7 +10,7 @@
 
 ## VPN
 
-Лично мы, админы данного проекта, доверяем - [RedShield VPN](https://redshieldvpn.com/ru) и [FCKRKN VPN](https://t.me/FCK_RKN_bot?start), также можем посоветовать такие сервисы как: 
+Лично мы, админы данного проекта, доверяем - [**RedShield VPN**](https://redshieldvpn.com/ru) и [**FCKRKN VPN**](https://t.me/FCK_RKN_bot?start), также можем посоветовать такие сервисы как: 
   1. MULLVAD VPN 
   2. Outline VPN
 
@@ -20,20 +18,20 @@
 
 [Ссылка](https://mullvad.net/)
 
-**Outline** - также является опенсорс проектом, который поможет вам настроить и поднять свой ВПН сервис, о чем мы расскажем в следующих статьях!
+**Outline** - также является опенсорс проектом, который поможет вам настроить и поднять свой VPN-сервис, о чем мы расскажем в следующих статьях!
 
 [Ссылка](https://getoutline.org/ru/get-started/)
 
 ### Прочие сервисы
 
-- GoodbyeDPI - [Ссылка](https://github.com/ValdikSS/GoodbyeDPI)
-- Zapret - [Ссылка](https://github.com/bol-van/zapret)
-- GreenTunnel - [Ссылка](https://github.com/SadeghHayeri/GreenTunnel)
-- PowerTunnel - [Ссылка](https://github.com/krlvm/PowerTunnel)
-- SpoofDPI - [Ссылка](https://github.com/xvzc/SpoofDPI)
+- GoodbyeDPI - [**Ссылка**](https://github.com/ValdikSS/GoodbyeDPI)
+- Zapret - [**Ссылка**](https://github.com/bol-van/zapret)
+- GreenTunnel - [**Ссылка**](https://github.com/SadeghHayeri/GreenTunnel)
+- PowerTunnel - [**Ссылка**](https://github.com/krlvm/PowerTunnel)
+- SpoofDPI - [**Ссылка**](https://github.com/xvzc/SpoofDPI)
 
-Все сервисы являются опенсорс проектами, которые рекомендует @ValdikSS, создатель самого используемого решения при обходе блокировок. Про их использование мы тоже обязательно напишем.
+Все сервисы являются опенсорс проектами, которые рекомендует **@ValdikSS**, создатель самого используемого решения при обходе блокировок. Про их использование мы тоже обязательно напишем.
 
-- TorScan - [Ссылка](https://torscan-ru.ntc.party/)
+- TorScan - [**Ссылка**](https://torscan-ru.ntc.party/)
 
-Поможем вам искать рабочие и актуальные мосты для подключения к сети Tor.
+Поможем вам искать рабочие и актуальные мосты для подключения к сети **Tor**.
