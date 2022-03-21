@@ -13,30 +13,34 @@
 
 ## AmneziaVPN -[Выбор Роскомсвободы](https://t.me/roskomsvoboda/8499)
 
-[@free_vpn_amnezia_bot](https://t.me/free_vpn_amnezia_bot) - телеграм-бот, который раздаёт бесплатный ограниченный VPN доступ к самым востребованным заблокированным ресурсам(Instagram, Facebook,
-Twitter,
-Linkedin,
-Protonmail,
-BBC,
-Meduza,
-tjournal.ru,
-radiosvoboda.org,
-svoboda.org,
-www.dw.com,
-www.golosameriki.com,
-lib.rus.ec).
+[**@free_vpn_amnezia_bot**](https://t.me/free_vpn_amnezia_bot) - телеграм-бот, который раздаёт бесплатный ограниченный VPN доступ к самым востребованным заблокированным ресурсам(**Instagram**, **Facebook**,
+**Twitter**,
+**Linkedin**,
+**Protonmail**,
+**BBC**,
+**Meduza**,
+**tjournal.ru**,
+**radiosvoboda.org**,
+**svoboda.org**,
+**www.dw.com**,
+**www.golosameriki.com**,
+**lib.rus.ec**).
 
 Плюсы:
 
-1) работает на [WireGuard](https://www.wireguard.com/) - новый протокол, т.е. сложнее заблокировать
+1) работает на [**WireGuard**](https://www.wireguard.com/) - новый протокол, т.е. сложнее заблокировать
 
-2) есть клиенты на все платформы(android, ios, windows, linux, macos)
+2) есть клиенты на все платформы(**Android**, **iOS**, **Windows**, **Linux**, **MacOS**)
 
-3) [Amnezia VPN - наше спасение!](amnezia.md)
+3) [**Amnezia VPN - наше спасение!**](amnezia.md)
 
 Минусы:
 
 1) Низкая скорость - обусловленно большим кол-вом пользователей. Но это отчасти плюс, т.к. это железобетонный метод по обходу блокировок
+
+2) Из-за высокой нагрузки бот обрабатывает запрос на конфиг медленно, из-за чего приходится ждать продолжительное время
+
+
 ## TunnelBear
 Один из немногих сервисов, о котором знает очень большое количество человек, когда впервые слышит о VPN. Находится он в **Канаде**. 
 
