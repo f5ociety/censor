@@ -43,7 +43,7 @@
 
 5) Обновления выходят достаточно редко
 
-[Ссылка](https://www.tunnelbear.com/)
+[**Ссылка**](https://www.tunnelbear.com/)
 
 ## Mullvad 
 
@@ -75,7 +75,7 @@
 
 1) Нет пробного или бесплатного тарифа
 
-[Ссылка](https://mullvad.net/ru/)
+[**Ссылка**](https://mullvad.net/ru/)
 
 ## RedShield 
 
@@ -111,7 +111,7 @@
 
 5) Нет пробного или бесплатного тарифа
 
-[Ссылка](https://redshieldvpn.com/ru)
+[**Ссылка**](https://redshieldvpn.com/ru)
 
 ## Cactus 
 
@@ -145,7 +145,7 @@
 
 4) Пробный период 3 дня
 
-[Ссылка](https://www.cactusvpn.com/)
+[**Ссылка**](https://www.cactusvpn.com/)
 
 ## FCK_RKN 
 
@@ -179,7 +179,7 @@
 
 4) Нет расширения для браузера
 
-[Ссылка](https://t.me/FCK_RKN_bot)
+[**Ссылка**](https://www.fckvpn.com/)
 
 ## Xeovo 
 
@@ -209,7 +209,7 @@
 
 4) Среднее количество серверов
 
-[Ссылка](https://xeovo.com/)
+[**Ссылка**](https://xeovo.com/)
 
 ## VPN
 которые могли удостоится своего **Review**, но о них мы занем намного меньше: 
