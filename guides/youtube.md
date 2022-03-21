@@ -4,8 +4,8 @@
 
 [**Статья про VPN (Дополнительные инструменты для обхода блокировок и полезные ресурсы)**](extra.md)
 
-- [CloudFlare WARP](1.1.1.1) - предоставляет случайные IP-адреса Польши, Финляндии и др.
-- [Psiphon](https://psiphon.ca/ru/download.html) - бесплатный, но медленный VPN
+- [CloudFlare WARP](https://1.1.1.1) - предоставляет случайные IP-адреса Польши, Финляндии и др.
+- [Psiphon](https://psiphon.ca/ru/download.html) - бесплатный, но медленный VPN **САЙТ МОЖЕТ НЕ РАБОТАТЬ БЕЗ VPN**
 
 ## Зеркала Youtube
 1) [TonVid](tonvid.com) - архив старых и популярных видео, так же можно смотреть через [SMTube](https://www.smtube.org/) <br>
