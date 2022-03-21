@@ -13,7 +13,7 @@
 
 ## AmneziaVPN - [Выбор Роскомсвободы](https://t.me/roskomsvoboda/8499)
 
-[**@free_vpn_amnezia_bot**](https://t.me/free_vpn_amnezia_bot) - телеграм-бот, который раздаёт бесплатный ограниченный VPN доступ к самым востребованным заблокированным ресурсам(**Instagram**, **Facebook**,
+[**@free_vpn_amnezia_bot**](https://t.me/free_vpn_amnezia_bot) - телеграм-бот, который раздаёт бесплатный ограниченный **VPN** доступ к самым востребованным заблокированным ресурсам (**Instagram**, **Facebook**,
 **Twitter**,
 **Linkedin**,
 **Protonmail**,
