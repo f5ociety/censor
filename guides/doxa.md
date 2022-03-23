@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/44779327/159770954-fc465ef8-8783-4154-98cb-d234a43e652e.png)
+
+
 # Гайд DOXA и «Роскомсвободы»
 
 **Что делать, если отключат интернет?**
